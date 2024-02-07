@@ -9,3 +9,7 @@ L'objectif principal de Cyber_library est d'offrir divers outils de sécurité i
 ## **Utilisation Responsable**
 
 Il est impératif que Cyber_library soit utilisé uniquement à des fins éducatives et de recherche. Toute utilisation malveillante ou illégale des outils et des malwares fournis dans cette bibliothèque est strictement interdite. Les développeurs et les chercheurs sont encouragés à respecter les lois et les règlements en vigueur lors de l'utilisation de cette ressource.
+
+## Licence
+
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
