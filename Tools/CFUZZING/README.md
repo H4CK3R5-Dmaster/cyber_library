@@ -14,8 +14,6 @@ L'objectif principal de CFUZZING est d'aider les chercheurs en sécurité et les
 
 - **Utilisation de Wordlists** : Personnalisez les wordlists pour adapter le fuzzing aux spécificités de votre application.
 
-- **Rapports Détaillés** : Les résultats du fuzzing sont présentés de manière claire dans des rapports détaillés, facilitant l'analyse des problèmes découverts.
-
 - **Facile à Utiliser** : Une interface utilisateur conviviale et des options flexibles permettent une utilisation facile et une personnalisation en fonction des besoins spécifiques.
 
 ## Utilisation
