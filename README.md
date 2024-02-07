@@ -12,4 +12,4 @@ Il est impératif que Cyber_library soit utilisé uniquement à des fins éducat
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/H4CK3R5-Dmaster/cyber_library/blob/main/LICENCE) pour plus de détails.
